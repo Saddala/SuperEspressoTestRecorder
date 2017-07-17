@@ -1,0 +1,8 @@
+<component name="CopyrightManager">
+  <settings default="Saddala">
+    <module2copyright>
+      <element module="Project Files" copyright="Saddala" />
+      <element module="All" copyright="Saddala" />
+    </module2copyright>
+  </settings>
+</component>
