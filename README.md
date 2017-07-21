@@ -66,7 +66,7 @@ There are some links which can be useful to work with Super Espresso Test Record
 _Data provided by Saddala. © 2017 SADDALA_
 
 _#License_
-_Copyright 2017 Saddla_
+_Copyright 2017 Saddala_
 
 _Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at_
 _http://www.apache.org/licenses/LICENSE-2.0_
